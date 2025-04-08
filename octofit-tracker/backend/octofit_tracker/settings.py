@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-6z-!mb%zek!2d+99(v+=t0po_js82-)fj#6g$#w&=wt^10r(x+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['vigilant-fishstick-x5wqp9p5ww7f4gp-8000.app.github.dev', 'localhost']
 
 
 # Application definition
